@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/raect-User-details-App/static/css/main.7d9ce53e.chunk.css",
+    "main.js": "/raect-User-details-App/static/js/main.5d128b86.chunk.js",
+    "main.js.map": "/raect-User-details-App/static/js/main.5d128b86.chunk.js.map",
+    "runtime-main.js": "/raect-User-details-App/static/js/runtime-main.5dd75799.js",
+    "runtime-main.js.map": "/raect-User-details-App/static/js/runtime-main.5dd75799.js.map",
+    "static/js/2.21ee0338.chunk.js": "/raect-User-details-App/static/js/2.21ee0338.chunk.js",
+    "static/js/2.21ee0338.chunk.js.map": "/raect-User-details-App/static/js/2.21ee0338.chunk.js.map",
+    "index.html": "/raect-User-details-App/index.html",
+    "static/css/main.7d9ce53e.chunk.css.map": "/raect-User-details-App/static/css/main.7d9ce53e.chunk.css.map",
+    "static/js/2.21ee0338.chunk.js.LICENSE.txt": "/raect-User-details-App/static/js/2.21ee0338.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd75799.js",
+    "static/js/2.21ee0338.chunk.js",
+    "static/css/main.7d9ce53e.chunk.css",
+    "static/js/main.5d128b86.chunk.js"
+  ]
+}
